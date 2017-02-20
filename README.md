@@ -1,6 +1,8 @@
 # change_affinity
 ## Notice
 This .py file set CPU affinity to all for ALL PERFORM-3D engines every 20 minutes. This can be easily changed by modifying the file using any text editors, for instance, notepad.
+
+It works only for 64 bit program, 32 bit is not yet supported due to lack of such program installed in my computer. (But who use 32 bit? 4GB RAM for PERFORM-3D? Are you kidding me?)
 ## Background
 PERFORM-3D would atomatically set CPU affinity for its engines, but the program can only detect cores of the cpu but not threads. It is, however, able to set CPU affinity to all manually, but an engine is only created for one load case only. 
 
