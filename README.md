@@ -6,6 +6,6 @@ It works only for 64 bit program, 32 bit is not yet supported due to lack of suc
 ## Background
 PERFORM-3D would atomatically set CPU affinity for its engines, but the program can only detect cores of the cpu but not threads. It is, however, able to set CPU affinity to all manually, but an engine is only created for one load case only. 
 
-Therefore, it is most annoying that one have to manaully set CPU affinity after each load case is completed. And let alone one may have multiple engines runing at the same time. 
+Therefore, it is most annoying that one have to manaully set CPU affinity after each load case is completed. And let alone one might have multiple engines runing simultaneously. 
 
-Being fed up with, one turn to python and leave such cumbersomeness to the computer. Ha, is not it what computers are invented for?
+Being fed up with, one turns to python and leaves such cumbersomeness to the computer. Ha, is not it what computers are invented for?
