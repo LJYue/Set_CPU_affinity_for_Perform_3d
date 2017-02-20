@@ -1,4 +1,6 @@
-# change_affinity
+# Set_CPU_affinity_for_Perform_3d
+## Link
+https://github.com/LJYue/Set_CPU_affinity_for_Perform_3d
 ## Notice
 This .py file set CPU affinity to all for ALL PERFORM-3D engines every 20 minutes. This can be easily changed by modifying the file using any text editors, for instance, notepad.
 
