@@ -1,4 +1,4 @@
-# Set_CPU_affinity_for_Perform_3d
+# Readme
 ## Link
 https://github.com/LJYue/Set_affinity_for_Perform_3d
 ## Notice
